@@ -1,1 +1,2 @@
 # -Ames-Housing-Price-prediction
+This report analyses the linear multiple correlation that exists between house prices in Ames, a city in state of Iowa and multiple factors related to both internal and external factors which can be considered as a determinant to affect house price in that area. Therefore, setting up a sales forecasting model to predict the Sales price to make a good prediction of each house which avoid the future asymmetric information in evaluate house prices in real estate industry which hugely contributed for the economic recession in 2008.
